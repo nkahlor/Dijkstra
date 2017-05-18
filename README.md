@@ -4,7 +4,9 @@ Implementation of Dijkstra's algorithm using heap and adjacency list: O(E lgV)
 Commands for using the program:
    Compile: make
    Run: ./run
- 
+
+I have adopted a procedural approach rather than an object oriented approach in this implementation.
+
 This program runs on a basic command line interface with few options. It will read a graph from a file which must be named
 GRAPHinput.txt and construct an adjacency list of vertices, and edge weights. I have included a sample .txt file to
 demonstrate formatting.
