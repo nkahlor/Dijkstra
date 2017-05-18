@@ -1,5 +1,7 @@
 # Dijkstra
-# Compiled with make, produces run.exe
+
+Compiled with make, produces run.exe
+
 Implementation of Dijkstra's algorithm using heap and adjacency list: O(E lgV)
 
 
