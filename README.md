@@ -1,8 +1,7 @@
 # Dijkstra
+# Compiled with make, produces run.exe
 Implementation of Dijkstra's algorithm using heap and adjacency list: O(E lgV)
 
-Commands for using the program:
-   Compile: make                 Run: ./run
 
 I have adopted a procedural approach rather than an object oriented approach in this implementation.
 
