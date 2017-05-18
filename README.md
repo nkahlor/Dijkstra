@@ -1,6 +1,5 @@
 # Dijkstra
 Implementation of Dijkstra's algorithm using heap and adjacency list: O(E lgV)
-
 Commands for using the program:
    Compile: make
    Run: ./run
